@@ -1,0 +1,19 @@
+{
+  "name": "firts_proj",
+  "version": "1.0.0",
+  "description": "A simple app to be deploy",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "chai"
+  ],
+  "author": "Musa khan",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}
